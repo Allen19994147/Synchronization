@@ -5,4 +5,4 @@ A number of exampels are provided and some cases are simulated, including leader
 
 In Syn_Leader_Follower.slx file, a system tries to synchorinze to the other; while in the  Syn_Leader_Follower_est1.slx file, the two systems try to synchronize to each other.
 
-In the  Syn_Leader_Follower_est2.slx file, a thornier dynamic is studied. And it shows that a system can synchronize to a stable state even thought its initial condition leads it to unstable states without controll.
+In the  Syn_Leader_Follower_est2.slx file, a thornier dynamic is studied. And it shows that a system can synchronize to a stable state even thought its initial condition leads it to unstable states without control.
